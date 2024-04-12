@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/steve/AndroidStudioProjects/test2/app/src/main/res/drawable-v24/ic_baseline_info_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/steve/AndroidStudioProjects/test2/app/src/main/res/layout/activity_add_books.xml" value="0.2032103825136612" />
+        <entry key="..\:/Users/steve/AndroidStudioProjects/test2/app/src/main/res/layout/activity_admin_log.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/steve/AndroidStudioProjects/test2/app/src/main/res/layout/activity_gmap.xml" value="0.24444444444444444" />
+        <entry key="..\:/Users/steve/AndroidStudioProjects/test2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/steve/AndroidStudioProjects/test2/app/src/main/res/layout/activity_purchase.xml" value="0.18169398907103826" />
+        <entry key="..\:/Users/steve/AndroidStudioProjects/test2/app/src/main/res/layout/activity_show_books.xml" value="0.19262295081967212" />
+        <entry key="..\:/Users/steve/AndroidStudioProjects/test2/app/src/main/res/layout/activity_userlist.xml" value="0.19808743169398907" />
+        <entry key="..\:/Users/steve/AndroidStudioProjects/test2/app/src/main/res/layout/activity_youtube.xml" value="0.1871584699453552" />
+        <entry key="..\:/Users/steve/AndroidStudioProjects/test2/app/src/main/res/layout/item.xml" value="0.19808743169398907" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

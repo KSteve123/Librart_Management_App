@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginBottom="50dp"
+        android:gravity="center"
+        android:text="Ma’s Library"
+        android:textColor="#0EC6DA"
+        android:textSize="45dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn1Submit"
+        android:layout_width="350dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/title"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginEnd="30.5dp"
+        android:backgroundTint="#512DA8"
+        android:baselineAligned="false"
+        android:text="Admin"
+        android:textColor="#E64A19"
+        android:textSize="24sp">
+
+    </Button>
+
+    <Button
+        android:id="@+id/btn2Submit"
+        android:layout_width="350dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/btn1Submit"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="30.5dp"
+        android:backgroundTint="#E64A19"
+        android:baselineAligned="false"
+        android:text="View Books"
+        android:textColor="#512DA8"
+        android:textSize="24sp">
+
+    </Button>
+
+    <Button
+        android:id="@+id/btnYoutube"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn2Submit"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="80dp"
+        android:backgroundTint="#DA0909"
+        android:text="Youtube" />
+
+    <Button
+        android:id="@+id/gMap"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn2Submit"
+        android:layout_marginStart="18dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginEnd="18dp"
+        android:layout_toStartOf="@+id/btnFB"
+        android:layout_toEndOf="@+id/btnYoutube"
+        android:backgroundTint="#27B507"
+        android:text="Location" />
+
+    <Button
+        android:id="@+id/btnFB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn2Submit"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="80dp"
+        android:layout_marginEnd="16dp"
+        android:backgroundTint="#020CD5"
+        android:text="Facebook" />
+
+
+</RelativeLayout>
+

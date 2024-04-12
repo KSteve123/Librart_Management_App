@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">test2</string>
+    <string name="title_activity_gmap">GMap</string>
+
+
+    <string name="facebook_app_id">321097859968593</string>
+    <string name="fb_login_protocol_scheme">fb321097859968593</string>
+    <string name="facebook_client_token">fa584e6ac722c88d5317f44857574c10</string>
+
+
+</resources>

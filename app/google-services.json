@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "944108800895",
+    "project_id": "test2-bd836",
+    "storage_bucket": "test2-bd836.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944108800895:android:d4924f5877629ebb0f684a",
+        "android_client_info": {
+          "package_name": "com.futurext.test2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944108800895-brpl98j26nslenirq6jmu4kfgopon6i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6y9Lkbfqooxzk17BTrRtlxRgZIhCPEes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944108800895-brpl98j26nslenirq6jmu4kfgopon6i8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

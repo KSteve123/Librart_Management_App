@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=70:5C:9E:AA:86:D6:3C:BD:2C:CA:13:94:45:62:05:1E:CA:DA:D2:03%3Bcom.futurext.test2
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.futurext.test2
+
+    SHA-1 certificate fingerprint:
+    70:5C:9E:AA:86:D6:3C:BD:2C:CA:13:94:45:62:05:1E:CA:DA:D2:03
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDFqhansF_jSP6CBYHr6Rg3edS47su-80c</string>
+</resources>
